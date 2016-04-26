@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: WHAT IS PHYSICAL HEALTH?
-datePublished: '2016-04-26T20:03:08.111Z'
-dateModified: '2016-04-26T20:00:36.506Z'
+description: 'WHAT IS PHYSICAL HEALTH? '
+datePublished: '2016-04-26T21:06:22.795Z'
+dateModified: '2016-04-26T21:06:11.881Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-26-what-is-physical-health.md
