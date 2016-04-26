@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[H2Opulence]]></title>
         <description><![CDATA[H2Opulence]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/h2opulence/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 19:15:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 19:21:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/h2opulence/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e43837c-9bfa-4ebc-833b-65a56607d44e.jpg">]]></description>
+            <link>https://thegrid.ai/h2opulence/bc4a65ba-438f-4df0-8e13-57d72a5cb409/index.html</link>
+            <guid isPermaLink="false">bc4a65ba-438f-4df0-8e13-57d72a5cb409</guid>
+            <pubDate>Tue, 26 Apr 2016 19:20:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8adeea27-7c72-4a87-9519-0c3912f9a14b.jpg">]]></description>
-            <link>undefined11a54e76-a1e3-4eb4-bc38-36c7033eba74/index.html</link>
+            <link>https://thegrid.ai/h2opulence/11a54e76-a1e3-4eb4-bc38-36c7033eba74/index.html</link>
             <guid isPermaLink="false">11a54e76-a1e3-4eb4-bc38-36c7033eba74</guid>
             <pubDate>Tue, 26 Apr 2016 19:14:56 GMT</pubDate>
         </item>
