@@ -1,7 +1,7 @@
 name: H2Opulence
 favicon: null
-layout_spectrum: 0.16737501742318273
-typography_spectrum: 0.9681794042699039
+layout_spectrum: 0.2794
+typography_spectrum: 0.0504
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#ffffff'
+    - '#303150'
+    - '#1dceb1'
+    - '#98e8db'
+    - '#656565'
   brandStrength: 0.15413660113699734
   lightness: 0.2127497054170817
   saturation: 0.7092172293923795
